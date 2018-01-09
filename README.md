@@ -2,6 +2,15 @@
 
 Docker image for Node.js & Git CLI, based on [node](https://hub.docker.com/_/node/) image on Docker Hub.
 
+## Spec
+
+- Node.js 8.9
+- git
+- bash
+- npm
+- yarn
+- openssh
+
 ## Development
 
 ``` sh
